@@ -1,0 +1,41 @@
+{"ts": "2026-04-24T16:48:25.293040+00:00", "level": "ERROR", "logger": "rest_client", "msg": "HTTP error on /fapi/v1/leverage: Cannot connect to host testnet.binancefuture.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')]"}
+{"ts": "2026-04-24T16:48:25.543576+00:00", "level": "ERROR", "logger": "rest_client", "msg": "HTTP error on /fapi/v1/leverage: Cannot connect to host testnet.binancefuture.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')]"}
+{"ts": "2026-04-24T16:48:25.739294+00:00", "level": "ERROR", "logger": "rest_client", "msg": "HTTP error on /fapi/v1/klines: Cannot connect to host testnet.binancefuture.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')]"}
+{"ts": "2026-04-24T16:48:25.911258+00:00", "level": "ERROR", "logger": "rest_client", "msg": "HTTP error on /fapi/v1/klines: Cannot connect to host testnet.binancefuture.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')]"}
+{"ts": "2026-04-24T16:49:44.560593+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action'}"}
+{"ts": "2026-04-24T16:49:44.737685+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action'}"}
+{"ts": "2026-04-24T16:50:00.937116+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action'}"}
+{"ts": "2026-04-24T16:51:15.289032+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -1022, 'msg': 'Signature for this request is not valid.'}"}
+{"ts": "2026-04-24T16:51:15.418012+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -1022, 'msg': 'Signature for this request is not valid.'}"}
+{"ts": "2026-04-24T16:58:10.928696+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -1022, 'msg': 'Signature for this request is not valid.'}"}
+{"ts": "2026-04-24T16:58:11.058710+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -1022, 'msg': 'Signature for this request is not valid.'}"}
+{"ts": "2026-04-24T17:03:04.365724+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2014, 'msg': 'API-key format invalid.'}"}
+{"ts": "2026-04-24T17:03:04.682857+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2014, 'msg': 'API-key format invalid.'}"}
+{"ts": "2026-04-24T17:03:05.001215+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2014, 'msg': 'API-key format invalid.'}"}
+{"ts": "2026-04-24T17:03:05.320864+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2014, 'msg': 'API-key format invalid.'}"}
+{"ts": "2026-04-24T17:04:21.260500+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2014, 'msg': 'API-key format invalid.'}"}
+{"ts": "2026-04-24T17:04:21.420702+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2014, 'msg': 'API-key format invalid.'}"}
+{"ts": "2026-04-24T17:04:21.585642+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2014, 'msg': 'API-key format invalid.'}"}
+{"ts": "2026-04-24T17:04:21.748056+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2014, 'msg': 'API-key format invalid.'}"}
+{"ts": "2026-04-24T17:06:13.832790+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action'}"}
+{"ts": "2026-04-24T17:06:14.000546+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action'}"}
+{"ts": "2026-04-24T17:06:14.174103+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action'}"}
+{"ts": "2026-04-24T17:06:14.346190+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action'}"}
+{"ts": "2026-04-24T17:12:11.168533+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action'}"}
+{"ts": "2026-04-24T17:12:11.435014+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action'}"}
+{"ts": "2026-04-24T17:12:11.689573+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action'}"}
+{"ts": "2026-04-24T17:27:25.721982+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -4300, 'msg': 'You can start trading with more than 20x leverage by 2026-05-17 14:46 (UTC), because higher leverage is available 30 days after Futures account registration.'}"}
+{"ts": "2026-04-24T17:27:26.045146+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -4300, 'msg': 'You can start trading with more than 20x leverage by 2026-05-17 14:46 (UTC), because higher leverage is available 30 days after Futures account registration.'}"}
+{"ts": "2026-04-24T17:27:26.360781+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -4300, 'msg': 'You can start trading with more than 20x leverage by 2026-05-17 14:46 (UTC), because higher leverage is available 30 days after Futures account registration.'}"}
+{"ts": "2026-04-24T17:27:28.247845+00:00", "level": "INFO", "logger": "rest_client", "msg": "Placing order: SELL MARKET 0.001000 BTCUSDT"}
+{"ts": "2026-04-24T17:27:28.407837+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2019, 'msg': 'Margin is insufficient.'}"}
+{"ts": "2026-04-24T17:27:29.063733+00:00", "level": "INFO", "logger": "rest_client", "msg": "Placing order: SELL MARKET 0.001000 BTCUSDT"}
+{"ts": "2026-04-24T17:27:29.223204+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2019, 'msg': 'Margin is insufficient.'}"}
+{"ts": "2026-04-24T17:27:30.392783+00:00", "level": "INFO", "logger": "rest_client", "msg": "Placing order: SELL MARKET 0.001000 BTCUSDT"}
+{"ts": "2026-04-24T17:27:30.549737+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2019, 'msg': 'Margin is insufficient.'}"}
+{"ts": "2026-04-24T17:27:38.859375+00:00", "level": "INFO", "logger": "rest_client", "msg": "Placing order: SELL MARKET 0.001000 BTCUSDT"}
+{"ts": "2026-04-24T17:27:39.016599+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2019, 'msg': 'Margin is insufficient.'}"}
+{"ts": "2026-04-24T17:27:39.677800+00:00", "level": "INFO", "logger": "rest_client", "msg": "Placing order: SELL MARKET 0.001000 BTCUSDT"}
+{"ts": "2026-04-24T17:27:39.841935+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2019, 'msg': 'Margin is insufficient.'}"}
+{"ts": "2026-04-24T17:27:41.003412+00:00", "level": "INFO", "logger": "rest_client", "msg": "Placing order: SELL MARKET 0.001000 BTCUSDT"}
+{"ts": "2026-04-24T17:27:41.158134+00:00", "level": "ERROR", "logger": "rest_client", "msg": "API error: {'code': -2019, 'msg': 'Margin is insufficient.'}"}

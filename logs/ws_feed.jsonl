@@ -1,0 +1,75 @@
+{"ts": "2026-04-24T16:48:25.739294+00:00", "level": "ERROR", "logger": "ws_feed", "msg": "Failed to load candles for BTCUSDT: Cannot connect to host testnet.binancefuture.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')]"}
+{"ts": "2026-04-24T16:48:25.912498+00:00", "level": "ERROR", "logger": "ws_feed", "msg": "Failed to load candles for ETHUSDT: Cannot connect to host testnet.binancefuture.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')]"}
+{"ts": "2026-04-24T16:48:25.915986+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connecting to wss://fstream.binance.com/stream?streams=btcusdt@kline_1m/et..."}
+{"ts": "2026-04-24T16:48:28.132968+00:00", "level": "ERROR", "logger": "ws_feed", "msg": "WebSocket error: Cannot connect to host fstream.binance.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)')]"}
+{"ts": "2026-04-24T16:48:28.132968+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Reconnecting in 5 seconds..."}
+{"ts": "2026-04-24T16:48:33.136117+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connecting to wss://fstream.binance.com/stream?streams=btcusdt@kline_1m/et..."}
+{"ts": "2026-04-24T16:48:36.407360+00:00", "level": "ERROR", "logger": "ws_feed", "msg": "WebSocket error: Cannot connect to host fstream.binance.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)')]"}
+{"ts": "2026-04-24T16:48:36.407360+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Reconnecting in 5 seconds..."}
+{"ts": "2026-04-24T16:48:41.422177+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connecting to wss://fstream.binance.com/stream?streams=btcusdt@kline_1m/et..."}
+{"ts": "2026-04-24T16:48:43.510665+00:00", "level": "ERROR", "logger": "ws_feed", "msg": "WebSocket error: Cannot connect to host fstream.binance.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)')]"}
+{"ts": "2026-04-24T16:48:43.512204+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Reconnecting in 5 seconds..."}
+{"ts": "2026-04-24T16:49:44.914860+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for BTCUSDT"}
+{"ts": "2026-04-24T16:49:45.083766+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for ETHUSDT"}
+{"ts": "2026-04-24T16:49:45.084767+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connecting to wss://stream.binancefuture.com/stream?streams=btcusdt@kline_..."}
+{"ts": "2026-04-24T16:49:45.686336+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connected. Streaming 2 pairs."}
+{"ts": "2026-04-24T16:51:15.560353+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for BTCUSDT"}
+{"ts": "2026-04-24T16:51:15.725461+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for ETHUSDT"}
+{"ts": "2026-04-24T16:51:15.725461+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connecting to wss://fstream.binance.com/stream?streams=btcusdt@kline_1m/et..."}
+{"ts": "2026-04-24T16:51:16.162414+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connected. Streaming 2 pairs."}
+{"ts": "2026-04-24T16:58:11.200592+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for BTCUSDT"}
+{"ts": "2026-04-24T16:58:11.336172+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for ETHUSDT"}
+{"ts": "2026-04-24T16:58:11.337213+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connecting to wss://fstream.binance.com/stream?streams=btcusdt@kline_1m/et..."}
+{"ts": "2026-04-24T16:58:11.723068+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connected. Streaming 2 pairs."}
+{"ts": "2026-04-24T17:03:05.628132+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUUSDT"}
+{"ts": "2026-04-24T17:03:05.953055+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for PAXGUSDT"}
+{"ts": "2026-04-24T17:03:06.147668+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUTUSDT"}
+{"ts": "2026-04-24T17:03:06.149662+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connecting to wss://fstream.binance.com/stream?streams=xauusdt@kline_1m/pa..."}
+{"ts": "2026-04-24T17:03:07.211425+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connected. Streaming 3 pairs."}
+{"ts": "2026-04-24T17:04:21.921892+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUUSDT"}
+{"ts": "2026-04-24T17:04:22.092910+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for PAXGUSDT"}
+{"ts": "2026-04-24T17:04:22.261972+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUTUSDT"}
+{"ts": "2026-04-24T17:04:22.263008+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connecting to wss://fstream.binance.com/stream?streams=xauusdt@kline_1m/pa..."}
+{"ts": "2026-04-24T17:04:22.673312+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connected. Streaming 3 pairs."}
+{"ts": "2026-04-24T17:06:14.525303+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUUSDT"}
+{"ts": "2026-04-24T17:06:14.713456+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for PAXGUSDT"}
+{"ts": "2026-04-24T17:06:14.887100+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUTUSDT"}
+{"ts": "2026-04-24T17:06:14.889621+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connecting to wss://fstream.binance.com/stream?streams=xauusdt@kline_1m/pa..."}
+{"ts": "2026-04-24T17:06:15.334948+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connected. Streaming 3 pairs."}
+{"ts": "2026-04-24T17:12:11.967845+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUUSDT"}
+{"ts": "2026-04-24T17:12:12.109156+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for PAXGUSDT"}
+{"ts": "2026-04-24T17:12:12.246099+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUTUSDT"}
+{"ts": "2026-04-24T17:12:12.247117+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connecting to wss://fstream.binance.com/stream?streams=xauusdt@kline_1m/pa..."}
+{"ts": "2026-04-24T17:12:12.648071+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connected. Streaming 3 pairs."}
+{"ts": "2026-04-24T17:13:47.526534+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUUSDT"}
+{"ts": "2026-04-24T17:13:47.703384+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for PAXGUSDT"}
+{"ts": "2026-04-24T17:13:47.880442+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUTUSDT"}
+{"ts": "2026-04-24T17:13:47.882579+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connecting to wss://fstream.binance.com/stream?streams=xauusdt@kline_1m/pa..."}
+{"ts": "2026-04-24T17:13:48.338283+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connected. Streaming 3 pairs."}
+{"ts": "2026-04-24T17:17:19.444931+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUUSDT"}
+{"ts": "2026-04-24T17:17:19.606891+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for PAXGUSDT"}
+{"ts": "2026-04-24T17:17:19.773641+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUTUSDT"}
+{"ts": "2026-04-24T17:17:19.775169+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connecting to wss://fstream.binance.com/stream?streams=xauusdt@kline_1m/pa..."}
+{"ts": "2026-04-24T17:17:20.218506+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connected. Streaming 3 pairs."}
+{"ts": "2026-04-24T17:18:40.682869+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUUSDT"}
+{"ts": "2026-04-24T17:18:40.820838+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for PAXGUSDT"}
+{"ts": "2026-04-24T17:18:40.959213+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUTUSDT"}
+{"ts": "2026-04-24T17:18:40.960808+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connecting to wss://fstream.binance.com/stream?streams=xauusdt@kline_1m/pa..."}
+{"ts": "2026-04-24T17:18:41.429284+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connected. Streaming 3 pairs."}
+{"ts": "2026-04-24T17:20:19.417399+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUUSDT"}
+{"ts": "2026-04-24T17:20:19.557428+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for PAXGUSDT"}
+{"ts": "2026-04-24T17:20:19.700536+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUTUSDT"}
+{"ts": "2026-04-24T17:20:19.703624+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connecting to wss://fstream.binance.com/stream?streams=xauusdt@kline_1m/pa..."}
+{"ts": "2026-04-24T17:20:20.094693+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Connected. Streaming 3 pairs."}
+{"ts": "2026-04-24T17:24:10.050843+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUUSDT"}
+{"ts": "2026-04-24T17:24:10.220027+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for PAXGUSDT"}
+{"ts": "2026-04-24T17:24:10.394253+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUTUSDT"}
+{"ts": "2026-04-24T17:25:27.788509+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUUSDT"}
+{"ts": "2026-04-24T17:25:27.969380+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for PAXGUSDT"}
+{"ts": "2026-04-24T17:25:28.153998+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUTUSDT"}
+{"ts": "2026-04-24T17:27:26.707241+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUUSDT"}
+{"ts": "2026-04-24T17:27:26.875586+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for BTCUSDT"}
+{"ts": "2026-04-24T17:27:27.046789+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for ETHUSDT"}
+{"ts": "2026-04-24T17:28:26.638624+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for XAUUSDT"}
+{"ts": "2026-04-24T17:28:26.809769+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for BTCUSDT"}
+{"ts": "2026-04-24T17:28:26.978393+00:00", "level": "INFO", "logger": "ws_feed", "msg": "Loaded 250 historical candles for ETHUSDT"}

@@ -1,0 +1,237 @@
+{"ts": "2026-04-24T16:48:24.930249+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T16:48:24.931167+00:00", "level": "INFO", "logger": "main", "msg": "  SCALPING BOT STARTING"}
+{"ts": "2026-04-24T16:48:24.931167+00:00", "level": "INFO", "logger": "main", "msg": "  Pairs: BTCUSDT, ETHUSDT"}
+{"ts": "2026-04-24T16:48:24.931167+00:00", "level": "INFO", "logger": "main", "msg": "  Mode: TESTNET"}
+{"ts": "2026-04-24T16:48:24.931167+00:00", "level": "INFO", "logger": "main", "msg": "  Timeframe: 1m"}
+{"ts": "2026-04-24T16:48:24.931674+00:00", "level": "INFO", "logger": "main", "msg": "  Risk/trade: 0.75%"}
+{"ts": "2026-04-24T16:48:24.932234+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T16:48:25.293547+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for BTCUSDT: Cannot connect to host testnet.binancefuture.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')]"}
+{"ts": "2026-04-24T16:48:25.545050+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for ETHUSDT: Cannot connect to host testnet.binancefuture.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')]"}
+{"ts": "2026-04-24T16:48:25.545050+00:00", "level": "INFO", "logger": "main", "msg": "Loading historical candles..."}
+{"ts": "2026-04-24T16:48:25.913769+00:00", "level": "INFO", "logger": "main", "msg": "Starting WebSocket feed..."}
+{"ts": "2026-04-24T16:49:44.284534+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T16:49:44.284534+00:00", "level": "INFO", "logger": "main", "msg": "  SCALPING BOT STARTING"}
+{"ts": "2026-04-24T16:49:44.285062+00:00", "level": "INFO", "logger": "main", "msg": "  Pairs: BTCUSDT, ETHUSDT"}
+{"ts": "2026-04-24T16:49:44.285062+00:00", "level": "INFO", "logger": "main", "msg": "  Mode: TESTNET"}
+{"ts": "2026-04-24T16:49:44.285062+00:00", "level": "INFO", "logger": "main", "msg": "  Timeframe: 1m"}
+{"ts": "2026-04-24T16:49:44.285062+00:00", "level": "INFO", "logger": "main", "msg": "  Risk/trade: 0.75%"}
+{"ts": "2026-04-24T16:49:44.285062+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T16:49:44.561110+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for BTCUSDT: Binance API error: Invalid API-key, IP, or permissions for action"}
+{"ts": "2026-04-24T16:49:44.737685+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for ETHUSDT: Binance API error: Invalid API-key, IP, or permissions for action"}
+{"ts": "2026-04-24T16:49:44.737685+00:00", "level": "INFO", "logger": "main", "msg": "Loading historical candles..."}
+{"ts": "2026-04-24T16:49:45.084767+00:00", "level": "INFO", "logger": "main", "msg": "Starting WebSocket feed..."}
+{"ts": "2026-04-24T16:50:00.937836+00:00", "level": "ERROR", "logger": "main", "msg": "Balance fetch failed: Binance API error: Invalid API-key, IP, or permissions for action"}
+{"ts": "2026-04-24T16:51:14.012096+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T16:51:14.012096+00:00", "level": "INFO", "logger": "main", "msg": "  SCALPING BOT STARTING"}
+{"ts": "2026-04-24T16:51:14.012096+00:00", "level": "INFO", "logger": "main", "msg": "  Pairs: BTCUSDT, ETHUSDT"}
+{"ts": "2026-04-24T16:51:14.016420+00:00", "level": "INFO", "logger": "main", "msg": "  Mode: \ud83d\udd34 LIVE"}
+{"ts": "2026-04-24T16:51:14.016420+00:00", "level": "INFO", "logger": "main", "msg": "  Timeframe: 1m"}
+{"ts": "2026-04-24T16:51:14.016420+00:00", "level": "INFO", "logger": "main", "msg": "  Risk/trade: 0.75%"}
+{"ts": "2026-04-24T16:51:14.017014+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T16:51:15.290044+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for BTCUSDT: Binance API error: Signature for this request is not valid."}
+{"ts": "2026-04-24T16:51:15.419276+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for ETHUSDT: Binance API error: Signature for this request is not valid."}
+{"ts": "2026-04-24T16:51:15.419276+00:00", "level": "INFO", "logger": "main", "msg": "Loading historical candles..."}
+{"ts": "2026-04-24T16:51:15.725461+00:00", "level": "INFO", "logger": "main", "msg": "Starting WebSocket feed..."}
+{"ts": "2026-04-24T16:58:10.680428+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T16:58:10.680428+00:00", "level": "INFO", "logger": "main", "msg": "  SCALPING BOT STARTING"}
+{"ts": "2026-04-24T16:58:10.680428+00:00", "level": "INFO", "logger": "main", "msg": "  Pairs: BTCUSDT, ETHUSDT"}
+{"ts": "2026-04-24T16:58:10.681426+00:00", "level": "INFO", "logger": "main", "msg": "  Mode: LIVE"}
+{"ts": "2026-04-24T16:58:10.681426+00:00", "level": "INFO", "logger": "main", "msg": "  Timeframe: 1m"}
+{"ts": "2026-04-24T16:58:10.681426+00:00", "level": "INFO", "logger": "main", "msg": "  Risk/trade: 0.75%"}
+{"ts": "2026-04-24T16:58:10.681426+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T16:58:10.928696+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for BTCUSDT: Binance API error: Signature for this request is not valid."}
+{"ts": "2026-04-24T16:58:11.059220+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for ETHUSDT: Binance API error: Signature for this request is not valid."}
+{"ts": "2026-04-24T16:58:11.059220+00:00", "level": "INFO", "logger": "main", "msg": "Loading historical candles..."}
+{"ts": "2026-04-24T16:58:11.337213+00:00", "level": "INFO", "logger": "main", "msg": "Starting WebSocket feed..."}
+{"ts": "2026-04-24T17:03:02.867890+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:03:02.867890+00:00", "level": "INFO", "logger": "main", "msg": "  SCALPING BOT STARTING"}
+{"ts": "2026-04-24T17:03:02.867890+00:00", "level": "INFO", "logger": "main", "msg": "  Pairs: XAUUSDT, PAXGUSDT, XAUTUSDT"}
+{"ts": "2026-04-24T17:03:02.867890+00:00", "level": "INFO", "logger": "main", "msg": "  Mode: LIVE"}
+{"ts": "2026-04-24T17:03:02.867890+00:00", "level": "INFO", "logger": "main", "msg": "  Timeframe: 1m"}
+{"ts": "2026-04-24T17:03:02.868890+00:00", "level": "INFO", "logger": "main", "msg": "  Risk/trade: 0.75%"}
+{"ts": "2026-04-24T17:03:02.868890+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:03:03.791499+00:00", "level": "INFO", "logger": "main", "msg": "PAXGUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:03:03.791499+00:00", "level": "INFO", "logger": "main", "msg": "XAUUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:03:03.793035+00:00", "level": "INFO", "logger": "main", "msg": "XAUTUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:03:04.366296+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for XAUUSDT: Binance API error: API-key format invalid."}
+{"ts": "2026-04-24T17:03:04.684409+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for PAXGUSDT: Binance API error: API-key format invalid."}
+{"ts": "2026-04-24T17:03:05.002314+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for XAUTUSDT: Binance API error: API-key format invalid."}
+{"ts": "2026-04-24T17:03:05.320864+00:00", "level": "ERROR", "logger": "main", "msg": "Balance fetch failed: Binance API error: API-key format invalid."}
+{"ts": "2026-04-24T17:03:05.321854+00:00", "level": "INFO", "logger": "main", "msg": "Loading historical candles..."}
+{"ts": "2026-04-24T17:03:06.148654+00:00", "level": "INFO", "logger": "main", "msg": "Starting WebSocket feed..."}
+{"ts": "2026-04-24T17:04:20.793380+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:04:20.793380+00:00", "level": "INFO", "logger": "main", "msg": "  SCALPING BOT STARTING"}
+{"ts": "2026-04-24T17:04:20.793380+00:00", "level": "INFO", "logger": "main", "msg": "  Pairs: XAUUSDT, PAXGUSDT, XAUTUSDT"}
+{"ts": "2026-04-24T17:04:20.793380+00:00", "level": "INFO", "logger": "main", "msg": "  Mode: LIVE"}
+{"ts": "2026-04-24T17:04:20.793380+00:00", "level": "INFO", "logger": "main", "msg": "  Timeframe: 1m"}
+{"ts": "2026-04-24T17:04:20.793380+00:00", "level": "INFO", "logger": "main", "msg": "  Risk/trade: 0.75%"}
+{"ts": "2026-04-24T17:04:20.794386+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:04:21.097966+00:00", "level": "INFO", "logger": "main", "msg": "PAXGUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:04:21.097966+00:00", "level": "INFO", "logger": "main", "msg": "XAUUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:04:21.097966+00:00", "level": "INFO", "logger": "main", "msg": "XAUTUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:04:21.261015+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for XAUUSDT: Binance API error: API-key format invalid."}
+{"ts": "2026-04-24T17:04:21.421966+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for PAXGUSDT: Binance API error: API-key format invalid."}
+{"ts": "2026-04-24T17:04:21.585642+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for XAUTUSDT: Binance API error: API-key format invalid."}
+{"ts": "2026-04-24T17:04:21.749065+00:00", "level": "ERROR", "logger": "main", "msg": "Balance fetch failed: Binance API error: API-key format invalid."}
+{"ts": "2026-04-24T17:04:21.749065+00:00", "level": "INFO", "logger": "main", "msg": "Loading historical candles..."}
+{"ts": "2026-04-24T17:04:22.263008+00:00", "level": "INFO", "logger": "main", "msg": "Starting WebSocket feed..."}
+{"ts": "2026-04-24T17:06:13.329209+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:06:13.329209+00:00", "level": "INFO", "logger": "main", "msg": "  SCALPING BOT STARTING"}
+{"ts": "2026-04-24T17:06:13.329209+00:00", "level": "INFO", "logger": "main", "msg": "  Pairs: XAUUSDT, PAXGUSDT, XAUTUSDT"}
+{"ts": "2026-04-24T17:06:13.329209+00:00", "level": "INFO", "logger": "main", "msg": "  Mode: LIVE"}
+{"ts": "2026-04-24T17:06:13.329209+00:00", "level": "INFO", "logger": "main", "msg": "  Timeframe: 1m"}
+{"ts": "2026-04-24T17:06:13.329209+00:00", "level": "INFO", "logger": "main", "msg": "  Risk/trade: 0.75%"}
+{"ts": "2026-04-24T17:06:13.330216+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:06:13.660092+00:00", "level": "INFO", "logger": "main", "msg": "PAXGUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:06:13.660640+00:00", "level": "INFO", "logger": "main", "msg": "XAUUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:06:13.660640+00:00", "level": "INFO", "logger": "main", "msg": "XAUTUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:06:13.833821+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for XAUUSDT: Binance API error: Invalid API-key, IP, or permissions for action"}
+{"ts": "2026-04-24T17:06:14.000546+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for PAXGUSDT: Binance API error: Invalid API-key, IP, or permissions for action"}
+{"ts": "2026-04-24T17:06:14.175119+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for XAUTUSDT: Binance API error: Invalid API-key, IP, or permissions for action"}
+{"ts": "2026-04-24T17:06:14.347188+00:00", "level": "ERROR", "logger": "main", "msg": "Balance fetch failed: Binance API error: Invalid API-key, IP, or permissions for action"}
+{"ts": "2026-04-24T17:06:14.348194+00:00", "level": "INFO", "logger": "main", "msg": "Loading historical candles..."}
+{"ts": "2026-04-24T17:06:14.888610+00:00", "level": "INFO", "logger": "main", "msg": "Starting WebSocket feed..."}
+{"ts": "2026-04-24T17:12:09.574839+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:12:09.574839+00:00", "level": "INFO", "logger": "main", "msg": "  SCALPING BOT STARTING"}
+{"ts": "2026-04-24T17:12:09.574839+00:00", "level": "INFO", "logger": "main", "msg": "  Pairs: XAUUSDT, PAXGUSDT, XAUTUSDT"}
+{"ts": "2026-04-24T17:12:09.574839+00:00", "level": "INFO", "logger": "main", "msg": "  Mode: LIVE"}
+{"ts": "2026-04-24T17:12:09.574839+00:00", "level": "INFO", "logger": "main", "msg": "  Timeframe: 1m"}
+{"ts": "2026-04-24T17:12:09.574839+00:00", "level": "INFO", "logger": "main", "msg": "  Risk/trade: 0.75%"}
+{"ts": "2026-04-24T17:12:09.575749+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:12:10.172307+00:00", "level": "INFO", "logger": "main", "msg": "PAXGUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:12:10.173291+00:00", "level": "INFO", "logger": "main", "msg": "XAUUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:12:10.173291+00:00", "level": "INFO", "logger": "main", "msg": "XAUTUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:12:11.171672+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for XAUUSDT: Binance API error: Invalid API-key, IP, or permissions for action"}
+{"ts": "2026-04-24T17:12:11.435014+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for PAXGUSDT: Binance API error: Invalid API-key, IP, or permissions for action"}
+{"ts": "2026-04-24T17:12:11.689573+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for XAUTUSDT: Binance API error: Invalid API-key, IP, or permissions for action"}
+{"ts": "2026-04-24T17:12:11.828988+00:00", "level": "INFO", "logger": "main", "msg": "USDT Balance: 3.28"}
+{"ts": "2026-04-24T17:12:11.830008+00:00", "level": "INFO", "logger": "main", "msg": "Loading historical candles..."}
+{"ts": "2026-04-24T17:12:12.246099+00:00", "level": "INFO", "logger": "main", "msg": "Starting WebSocket feed..."}
+{"ts": "2026-04-24T17:13:45.803337+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:13:45.803337+00:00", "level": "INFO", "logger": "main", "msg": "  SCALPING BOT STARTING"}
+{"ts": "2026-04-24T17:13:45.803337+00:00", "level": "INFO", "logger": "main", "msg": "  Pairs: XAUUSDT, PAXGUSDT, XAUTUSDT"}
+{"ts": "2026-04-24T17:13:45.803337+00:00", "level": "INFO", "logger": "main", "msg": "  Mode: LIVE"}
+{"ts": "2026-04-24T17:13:45.803337+00:00", "level": "INFO", "logger": "main", "msg": "  Timeframe: 1m"}
+{"ts": "2026-04-24T17:13:45.803337+00:00", "level": "INFO", "logger": "main", "msg": "  Risk/trade: 0.75%"}
+{"ts": "2026-04-24T17:13:45.803337+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:13:46.133887+00:00", "level": "INFO", "logger": "main", "msg": "PAXGUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:13:46.133887+00:00", "level": "INFO", "logger": "main", "msg": "XAUUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:13:46.134887+00:00", "level": "INFO", "logger": "main", "msg": "XAUTUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:13:46.474718+00:00", "level": "INFO", "logger": "main", "msg": "Set XAUUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:13:46.821460+00:00", "level": "INFO", "logger": "main", "msg": "Set PAXGUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:13:47.169456+00:00", "level": "INFO", "logger": "main", "msg": "Set XAUTUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:13:47.346686+00:00", "level": "INFO", "logger": "main", "msg": "USDT Balance: 3.28"}
+{"ts": "2026-04-24T17:13:47.347666+00:00", "level": "INFO", "logger": "main", "msg": "Loading historical candles..."}
+{"ts": "2026-04-24T17:13:47.882072+00:00", "level": "INFO", "logger": "main", "msg": "Starting WebSocket feed..."}
+{"ts": "2026-04-24T17:17:17.793573+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:17:17.793573+00:00", "level": "INFO", "logger": "main", "msg": "  SCALPING BOT STARTING"}
+{"ts": "2026-04-24T17:17:17.794285+00:00", "level": "INFO", "logger": "main", "msg": "  Pairs: XAUUSDT, PAXGUSDT, XAUTUSDT"}
+{"ts": "2026-04-24T17:17:17.794285+00:00", "level": "INFO", "logger": "main", "msg": "  Mode: LIVE"}
+{"ts": "2026-04-24T17:17:17.794285+00:00", "level": "INFO", "logger": "main", "msg": "  Timeframe: 1m"}
+{"ts": "2026-04-24T17:17:17.794285+00:00", "level": "INFO", "logger": "main", "msg": "  Risk/trade: 0.75%"}
+{"ts": "2026-04-24T17:17:17.794285+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:17:18.093184+00:00", "level": "INFO", "logger": "main", "msg": "PAXGUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:17:18.093184+00:00", "level": "INFO", "logger": "main", "msg": "XAUUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:17:18.093692+00:00", "level": "INFO", "logger": "main", "msg": "XAUTUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:17:18.463367+00:00", "level": "INFO", "logger": "main", "msg": "Set XAUUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:17:18.781879+00:00", "level": "INFO", "logger": "main", "msg": "Set PAXGUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:17:19.110695+00:00", "level": "INFO", "logger": "main", "msg": "Set XAUTUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:17:19.275237+00:00", "level": "INFO", "logger": "main", "msg": "USDT Balance: 3.28"}
+{"ts": "2026-04-24T17:17:19.275237+00:00", "level": "INFO", "logger": "main", "msg": "Loading historical candles..."}
+{"ts": "2026-04-24T17:17:19.774154+00:00", "level": "INFO", "logger": "main", "msg": "Starting WebSocket feed..."}
+{"ts": "2026-04-24T17:18:38.918383+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:18:38.918742+00:00", "level": "INFO", "logger": "main", "msg": "  SCALPING BOT STARTING"}
+{"ts": "2026-04-24T17:18:38.918742+00:00", "level": "INFO", "logger": "main", "msg": "  Pairs: XAUUSDT, PAXGUSDT, XAUTUSDT"}
+{"ts": "2026-04-24T17:18:38.918742+00:00", "level": "INFO", "logger": "main", "msg": "  Mode: LIVE"}
+{"ts": "2026-04-24T17:18:38.919321+00:00", "level": "INFO", "logger": "main", "msg": "  Timeframe: 1m"}
+{"ts": "2026-04-24T17:18:38.919321+00:00", "level": "INFO", "logger": "main", "msg": "  Risk/trade: 0.75%"}
+{"ts": "2026-04-24T17:18:38.919899+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:18:39.650458+00:00", "level": "INFO", "logger": "main", "msg": "PAXGUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:18:39.651827+00:00", "level": "INFO", "logger": "main", "msg": "XAUUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:18:39.651827+00:00", "level": "INFO", "logger": "main", "msg": "XAUTUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:18:39.911116+00:00", "level": "INFO", "logger": "main", "msg": "Set XAUUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:18:40.165544+00:00", "level": "INFO", "logger": "main", "msg": "Set PAXGUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:18:40.417436+00:00", "level": "INFO", "logger": "main", "msg": "Set XAUTUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:18:40.549311+00:00", "level": "INFO", "logger": "main", "msg": "USDT Balance: 3.28"}
+{"ts": "2026-04-24T17:18:40.549311+00:00", "level": "INFO", "logger": "main", "msg": "Loading historical candles..."}
+{"ts": "2026-04-24T17:18:40.960261+00:00", "level": "INFO", "logger": "main", "msg": "Starting WebSocket feed..."}
+{"ts": "2026-04-24T17:20:17.722748+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:20:17.723269+00:00", "level": "INFO", "logger": "main", "msg": "  SCALPING BOT STARTING"}
+{"ts": "2026-04-24T17:20:17.723269+00:00", "level": "INFO", "logger": "main", "msg": "  Pairs: XAUUSDT, PAXGUSDT, XAUTUSDT"}
+{"ts": "2026-04-24T17:20:17.723269+00:00", "level": "INFO", "logger": "main", "msg": "  Mode: LIVE"}
+{"ts": "2026-04-24T17:20:17.723269+00:00", "level": "INFO", "logger": "main", "msg": "  Timeframe: 1m"}
+{"ts": "2026-04-24T17:20:17.723269+00:00", "level": "INFO", "logger": "main", "msg": "  Risk/trade: 0.75%"}
+{"ts": "2026-04-24T17:20:17.723269+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:20:18.008781+00:00", "level": "INFO", "logger": "main", "msg": "PAXGUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:20:18.008781+00:00", "level": "INFO", "logger": "main", "msg": "XAUUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:20:18.008781+00:00", "level": "INFO", "logger": "main", "msg": "XAUTUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:20:18.280368+00:00", "level": "INFO", "logger": "main", "msg": "Set XAUUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:20:18.541557+00:00", "level": "INFO", "logger": "main", "msg": "Set PAXGUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:20:18.813132+00:00", "level": "INFO", "logger": "main", "msg": "Set XAUTUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:20:19.276450+00:00", "level": "INFO", "logger": "main", "msg": "USDT Balance: 3.28"}
+{"ts": "2026-04-24T17:20:19.276987+00:00", "level": "INFO", "logger": "main", "msg": "Loading historical candles..."}
+{"ts": "2026-04-24T17:20:19.702070+00:00", "level": "INFO", "logger": "main", "msg": "Starting WebSocket feed..."}
+{"ts": "2026-04-24T17:24:08.421281+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:24:08.421281+00:00", "level": "INFO", "logger": "main", "msg": "  SCALPING BOT STARTING"}
+{"ts": "2026-04-24T17:24:08.421281+00:00", "level": "INFO", "logger": "main", "msg": "  Pairs: XAUUSDT, PAXGUSDT, XAUTUSDT"}
+{"ts": "2026-04-24T17:24:08.421281+00:00", "level": "INFO", "logger": "main", "msg": "  Mode: LIVE"}
+{"ts": "2026-04-24T17:24:08.421281+00:00", "level": "INFO", "logger": "main", "msg": "  Timeframe: 1m"}
+{"ts": "2026-04-24T17:24:08.421281+00:00", "level": "INFO", "logger": "main", "msg": "  Risk/trade: 0.75%"}
+{"ts": "2026-04-24T17:24:08.421281+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:24:08.741616+00:00", "level": "INFO", "logger": "main", "msg": "PAXGUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:24:08.742601+00:00", "level": "INFO", "logger": "main", "msg": "XAUUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:24:08.742601+00:00", "level": "INFO", "logger": "main", "msg": "XAUTUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:24:09.065601+00:00", "level": "INFO", "logger": "main", "msg": "Set XAUUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:24:09.386738+00:00", "level": "INFO", "logger": "main", "msg": "Set PAXGUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:24:09.703838+00:00", "level": "INFO", "logger": "main", "msg": "Set XAUTUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:24:09.868051+00:00", "level": "INFO", "logger": "main", "msg": "USDT Balance: 3.28"}
+{"ts": "2026-04-24T17:24:09.868051+00:00", "level": "INFO", "logger": "main", "msg": "Loading historical candles..."}
+{"ts": "2026-04-24T17:24:10.395278+00:00", "level": "INFO", "logger": "main", "msg": "Starting REST polling loop (1s interval)..."}
+{"ts": "2026-04-24T17:25:25.575169+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:25:25.575169+00:00", "level": "INFO", "logger": "main", "msg": "  SCALPING BOT STARTING"}
+{"ts": "2026-04-24T17:25:25.575169+00:00", "level": "INFO", "logger": "main", "msg": "  Pairs: XAUUSDT, PAXGUSDT, XAUTUSDT"}
+{"ts": "2026-04-24T17:25:25.575169+00:00", "level": "INFO", "logger": "main", "msg": "  Mode: LIVE"}
+{"ts": "2026-04-24T17:25:25.576704+00:00", "level": "INFO", "logger": "main", "msg": "  Timeframe: 1m"}
+{"ts": "2026-04-24T17:25:25.576704+00:00", "level": "INFO", "logger": "main", "msg": "  Risk/trade: 0.75%"}
+{"ts": "2026-04-24T17:25:25.576704+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:25:26.436150+00:00", "level": "INFO", "logger": "main", "msg": "PAXGUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:25:26.439305+00:00", "level": "INFO", "logger": "main", "msg": "XAUUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:25:26.441102+00:00", "level": "INFO", "logger": "main", "msg": "XAUTUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:25:26.773265+00:00", "level": "INFO", "logger": "main", "msg": "Set XAUUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:25:27.106787+00:00", "level": "INFO", "logger": "main", "msg": "Set PAXGUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:25:27.440277+00:00", "level": "INFO", "logger": "main", "msg": "Set XAUTUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:25:27.610744+00:00", "level": "INFO", "logger": "main", "msg": "USDT Balance: 3.28"}
+{"ts": "2026-04-24T17:25:27.610744+00:00", "level": "INFO", "logger": "main", "msg": "Loading historical candles..."}
+{"ts": "2026-04-24T17:25:28.155510+00:00", "level": "INFO", "logger": "main", "msg": "Starting REST polling loop (1s interval)..."}
+{"ts": "2026-04-24T17:27:24.378729+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:27:24.378729+00:00", "level": "INFO", "logger": "main", "msg": "  SCALPING BOT STARTING"}
+{"ts": "2026-04-24T17:27:24.379763+00:00", "level": "INFO", "logger": "main", "msg": "  Pairs: XAUUSDT, BTCUSDT, ETHUSDT"}
+{"ts": "2026-04-24T17:27:24.379763+00:00", "level": "INFO", "logger": "main", "msg": "  Mode: LIVE"}
+{"ts": "2026-04-24T17:27:24.379763+00:00", "level": "INFO", "logger": "main", "msg": "  Timeframe: 1m"}
+{"ts": "2026-04-24T17:27:24.379763+00:00", "level": "INFO", "logger": "main", "msg": "  Risk/trade: 0.75%"}
+{"ts": "2026-04-24T17:27:24.379763+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:27:25.228119+00:00", "level": "INFO", "logger": "main", "msg": "BTCUSDT | step=0.001 min_qty=0.001 min_notional=50.0"}
+{"ts": "2026-04-24T17:27:25.228119+00:00", "level": "INFO", "logger": "main", "msg": "ETHUSDT | step=0.001 min_qty=0.001 min_notional=20.0"}
+{"ts": "2026-04-24T17:27:25.229268+00:00", "level": "INFO", "logger": "main", "msg": "XAUUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:27:25.724518+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for XAUUSDT: Binance API error: You can start trading with more than 20x leverage by 2026-05-17 14:46 (UTC), because higher leverage is available 30 days after Futures account registration."}
+{"ts": "2026-04-24T17:27:26.046198+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for BTCUSDT: Binance API error: You can start trading with more than 20x leverage by 2026-05-17 14:46 (UTC), because higher leverage is available 30 days after Futures account registration."}
+{"ts": "2026-04-24T17:27:26.362051+00:00", "level": "ERROR", "logger": "main", "msg": "Failed to set leverage for ETHUSDT: Binance API error: You can start trading with more than 20x leverage by 2026-05-17 14:46 (UTC), because higher leverage is available 30 days after Futures account registration."}
+{"ts": "2026-04-24T17:27:26.539547+00:00", "level": "INFO", "logger": "main", "msg": "USDT Balance: 3.28"}
+{"ts": "2026-04-24T17:27:26.540564+00:00", "level": "INFO", "logger": "main", "msg": "Loading historical candles..."}
+{"ts": "2026-04-24T17:27:27.047788+00:00", "level": "INFO", "logger": "main", "msg": "Starting REST polling loop (1s interval)..."}
+{"ts": "2026-04-24T17:28:25.008617+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:28:25.009643+00:00", "level": "INFO", "logger": "main", "msg": "  SCALPING BOT STARTING"}
+{"ts": "2026-04-24T17:28:25.009643+00:00", "level": "INFO", "logger": "main", "msg": "  Pairs: XAUUSDT, BTCUSDT, ETHUSDT"}
+{"ts": "2026-04-24T17:28:25.009643+00:00", "level": "INFO", "logger": "main", "msg": "  Mode: LIVE"}
+{"ts": "2026-04-24T17:28:25.009643+00:00", "level": "INFO", "logger": "main", "msg": "  Timeframe: 1m"}
+{"ts": "2026-04-24T17:28:25.009643+00:00", "level": "INFO", "logger": "main", "msg": "  Risk/trade: 0.75%"}
+{"ts": "2026-04-24T17:28:25.010714+00:00", "level": "INFO", "logger": "main", "msg": "=================================================="}
+{"ts": "2026-04-24T17:28:25.319303+00:00", "level": "INFO", "logger": "main", "msg": "BTCUSDT | step=0.001 min_qty=0.001 min_notional=50.0"}
+{"ts": "2026-04-24T17:28:25.319303+00:00", "level": "INFO", "logger": "main", "msg": "ETHUSDT | step=0.001 min_qty=0.001 min_notional=20.0"}
+{"ts": "2026-04-24T17:28:25.320331+00:00", "level": "INFO", "logger": "main", "msg": "XAUUSDT | step=0.001 min_qty=0.001 min_notional=5.0"}
+{"ts": "2026-04-24T17:28:25.645954+00:00", "level": "INFO", "logger": "main", "msg": "Set XAUUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:28:25.969330+00:00", "level": "INFO", "logger": "main", "msg": "Set BTCUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:28:26.297957+00:00", "level": "INFO", "logger": "main", "msg": "Set ETHUSDT leverage to 20x"}
+{"ts": "2026-04-24T17:28:26.465276+00:00", "level": "INFO", "logger": "main", "msg": "USDT Balance: 3.28"}
+{"ts": "2026-04-24T17:28:26.465276+00:00", "level": "INFO", "logger": "main", "msg": "Loading historical candles..."}
+{"ts": "2026-04-24T17:28:26.979395+00:00", "level": "INFO", "logger": "main", "msg": "Starting REST polling loop (1s interval)..."}

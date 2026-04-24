@@ -1,0 +1,68 @@
+{"ts": "2026-04-24T14:35:44.521307+00:00", "level": "INFO", "logger": "run_backtest", "msg": "=================================================="}
+{"ts": "2026-04-24T14:35:44.521307+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  BACKTEST: BTCUSDT"}
+{"ts": "2026-04-24T14:35:44.525165+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  Period: 2025-01-01 \u2192 2025-07-01"}
+{"ts": "2026-04-24T14:35:44.525775+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  Capital: $10,000.00"}
+{"ts": "2026-04-24T14:35:44.525775+00:00", "level": "INFO", "logger": "run_backtest", "msg": "=================================================="}
+{"ts": "2026-04-24T14:35:44.525775+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Fetching historical data..."}
+{"ts": "2026-04-24T14:36:10.754622+00:00", "level": "INFO", "logger": "run_backtest", "msg": "=================================================="}
+{"ts": "2026-04-24T14:36:10.755362+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  BACKTEST: BTCUSDT"}
+{"ts": "2026-04-24T14:36:10.759340+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  Period: 2025-01-01 \u2192 2025-07-01"}
+{"ts": "2026-04-24T14:36:10.759340+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  Capital: $10,000.00"}
+{"ts": "2026-04-24T14:36:10.759340+00:00", "level": "INFO", "logger": "run_backtest", "msg": "=================================================="}
+{"ts": "2026-04-24T14:36:10.759882+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Fetching historical data..."}
+{"ts": "2026-04-24T14:38:03.184774+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Loaded 260641 candles"}
+{"ts": "2026-04-24T14:41:05.713045+00:00", "level": "INFO", "logger": "run_backtest", "msg": "=================================================="}
+{"ts": "2026-04-24T14:41:05.713045+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  BACKTEST: BTCUSDT"}
+{"ts": "2026-04-24T14:41:05.717721+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  Period: 2025-01-01 \u2192 2025-07-01"}
+{"ts": "2026-04-24T14:41:05.717721+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  Capital: $10,000.00"}
+{"ts": "2026-04-24T14:41:05.717721+00:00", "level": "INFO", "logger": "run_backtest", "msg": "=================================================="}
+{"ts": "2026-04-24T14:41:05.717721+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Fetching historical data..."}
+{"ts": "2026-04-24T14:41:11.047038+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Loaded 260641 candles"}
+{"ts": "2026-04-24T14:45:47.166425+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Results saved to results/"}
+{"ts": "2026-04-24T14:46:51.145227+00:00", "level": "INFO", "logger": "run_backtest", "msg": "=================================================="}
+{"ts": "2026-04-24T14:46:51.145227+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  BACKTEST: BTCUSDT"}
+{"ts": "2026-04-24T14:46:51.150976+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  Period: 2025-01-01 \u2192 2025-07-01"}
+{"ts": "2026-04-24T14:46:51.150976+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  Capital: $10,000.00"}
+{"ts": "2026-04-24T14:46:51.152001+00:00", "level": "INFO", "logger": "run_backtest", "msg": "=================================================="}
+{"ts": "2026-04-24T14:46:51.152001+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Fetching historical data..."}
+{"ts": "2026-04-24T14:46:52.953747+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Loaded 260641 candles"}
+{"ts": "2026-04-24T14:50:53.166578+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Results saved to results/"}
+{"ts": "2026-04-24T14:51:58.884123+00:00", "level": "INFO", "logger": "run_backtest", "msg": "=================================================="}
+{"ts": "2026-04-24T14:51:58.884123+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  BACKTEST: BTCUSDT"}
+{"ts": "2026-04-24T14:51:58.888714+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  Period: 2025-01-01 \u2192 2025-07-01"}
+{"ts": "2026-04-24T14:51:58.889723+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  Capital: $10,000.00"}
+{"ts": "2026-04-24T14:51:58.890233+00:00", "level": "INFO", "logger": "run_backtest", "msg": "=================================================="}
+{"ts": "2026-04-24T14:51:58.890233+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Fetching historical data..."}
+{"ts": "2026-04-24T14:52:00.804301+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Loaded 260641 candles"}
+{"ts": "2026-04-24T14:56:45.410982+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Results saved to results/"}
+{"ts": "2026-04-24T14:58:45.250898+00:00", "level": "INFO", "logger": "run_backtest", "msg": "=================================================="}
+{"ts": "2026-04-24T14:58:45.250898+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  BACKTEST: BTCUSDT"}
+{"ts": "2026-04-24T14:58:45.254447+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  Period: 2025-01-01 \u2192 2025-07-01"}
+{"ts": "2026-04-24T14:58:45.254447+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  Capital: $10,000.00"}
+{"ts": "2026-04-24T14:58:45.254447+00:00", "level": "INFO", "logger": "run_backtest", "msg": "=================================================="}
+{"ts": "2026-04-24T14:58:45.254447+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Fetching historical data..."}
+{"ts": "2026-04-24T14:58:47.190383+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Loaded 260641 candles"}
+{"ts": "2026-04-24T15:03:33.868757+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Results saved to results/"}
+{"ts": "2026-04-24T15:04:32.546853+00:00", "level": "INFO", "logger": "run_backtest", "msg": "=================================================="}
+{"ts": "2026-04-24T15:04:32.547811+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  BACKTEST: BTCUSDT"}
+{"ts": "2026-04-24T15:04:32.549428+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  Period: 2025-01-01 \u2192 2025-07-01"}
+{"ts": "2026-04-24T15:04:32.549428+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  Capital: $10,000.00"}
+{"ts": "2026-04-24T15:04:32.549428+00:00", "level": "INFO", "logger": "run_backtest", "msg": "=================================================="}
+{"ts": "2026-04-24T15:04:32.550932+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Fetching historical data..."}
+{"ts": "2026-04-24T15:04:34.228067+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Loaded 260641 candles"}
+{"ts": "2026-04-24T15:09:14.819864+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Results saved to results/"}
+{"ts": "2026-04-24T15:09:52.582133+00:00", "level": "INFO", "logger": "run_backtest", "msg": "=================================================="}
+{"ts": "2026-04-24T15:09:52.582133+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  BACKTEST: BTCUSDT"}
+{"ts": "2026-04-24T15:09:52.585268+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  Period: 2025-01-01 \u2192 2025-07-01"}
+{"ts": "2026-04-24T15:09:52.585773+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  Capital: $10,000.00"}
+{"ts": "2026-04-24T15:09:52.585773+00:00", "level": "INFO", "logger": "run_backtest", "msg": "=================================================="}
+{"ts": "2026-04-24T15:09:52.585773+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Fetching historical data..."}
+{"ts": "2026-04-24T15:09:54.320323+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Loaded 260641 candles"}
+{"ts": "2026-04-24T15:10:17.942091+00:00", "level": "INFO", "logger": "run_backtest", "msg": "=================================================="}
+{"ts": "2026-04-24T15:10:17.942735+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  BACKTEST: BTCUSDT"}
+{"ts": "2026-04-24T15:10:17.946597+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  Period: 2025-01-01 \u2192 2025-07-01"}
+{"ts": "2026-04-24T15:10:17.946597+00:00", "level": "INFO", "logger": "run_backtest", "msg": "  Capital: $10,000.00"}
+{"ts": "2026-04-24T15:10:17.947181+00:00", "level": "INFO", "logger": "run_backtest", "msg": "=================================================="}
+{"ts": "2026-04-24T15:10:17.947181+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Fetching historical data..."}
+{"ts": "2026-04-24T15:10:19.617956+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Loaded 260641 candles"}
+{"ts": "2026-04-24T15:15:22.054709+00:00", "level": "INFO", "logger": "run_backtest", "msg": "Results saved to results/"}

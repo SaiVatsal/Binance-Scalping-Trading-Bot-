@@ -1,0 +1,8 @@
+{"ts": "2026-04-24T17:27:28.407837+00:00", "level": "ERROR", "logger": "orders", "msg": "Order attempt 1/3 failed: Binance API error: Margin is insufficient."}
+{"ts": "2026-04-24T17:27:29.223741+00:00", "level": "ERROR", "logger": "orders", "msg": "Order attempt 2/3 failed: Binance API error: Margin is insufficient."}
+{"ts": "2026-04-24T17:27:30.550757+00:00", "level": "ERROR", "logger": "orders", "msg": "Order attempt 3/3 failed: Binance API error: Margin is insufficient."}
+{"ts": "2026-04-24T17:27:30.550757+00:00", "level": "ERROR", "logger": "orders", "msg": "All 3 order attempts failed for BTCUSDT"}
+{"ts": "2026-04-24T17:27:39.018100+00:00", "level": "ERROR", "logger": "orders", "msg": "Order attempt 1/3 failed: Binance API error: Margin is insufficient."}
+{"ts": "2026-04-24T17:27:39.843457+00:00", "level": "ERROR", "logger": "orders", "msg": "Order attempt 2/3 failed: Binance API error: Margin is insufficient."}
+{"ts": "2026-04-24T17:27:41.158134+00:00", "level": "ERROR", "logger": "orders", "msg": "Order attempt 3/3 failed: Binance API error: Margin is insufficient."}
+{"ts": "2026-04-24T17:27:41.158134+00:00", "level": "ERROR", "logger": "orders", "msg": "All 3 order attempts failed for BTCUSDT"}
